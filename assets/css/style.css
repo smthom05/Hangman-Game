@@ -1,0 +1,20 @@
+body {
+  padding-left: 20px;
+  text-align: center;
+  color: maroon;
+  font-size: 25px;
+}
+
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  color: maroon;
+  font-weight: bold;
+  font-style: italic;
+}
+
+h2, h3, #selected-word, #letters-guessed {
+  color: maroon;
+  font-size: 25px;
+}
